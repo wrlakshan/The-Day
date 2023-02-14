@@ -7,14 +7,14 @@ import Form from './Form';
 function App() {
   return (  
     <div className="App">
-      {/* <div className="section"> */}
-          {/* <Data /> */}
-          {/* <DataCard /> */}
-      {/* </div> */}
+      <div className="section"> 
+           <Data /> 
+          <DataCard />
+      </div> 
 
-      <div class="form_cover">
-        <Form />
-      </div>
+//       <div class="form_cover">
+//         <Form />
+//       </div>
       
     </div>
   );
