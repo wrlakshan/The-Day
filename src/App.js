@@ -8,13 +8,16 @@ function App() {
   return (  
     <div className="App">
       <div className="section"> 
-           <Data /> 
           <DataCard />
-      </div> 
+      </div>
 
-//       <div class="form_cover">
-//         <Form />
-//       </div>
+      {/* <div className="section"> 
+          <Data />
+      </div> */}
+
+      {/* <div class="form_cover">
+        <Form />
+      </div> */}
       
     </div>
   );
